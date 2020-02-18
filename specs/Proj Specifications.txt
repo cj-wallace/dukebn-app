@@ -1,0 +1,92 @@
+https://www.railstutorial.org/book/
+
+
+
+Update Board
+
+-Users can post anything, allowing comments
+
+-Admins can pin certain posts for set amount of time
+
+-upcoming events
+
+-tags (ranger, 10m, ptep, cyber, general, cannon crew)
+
+
+
+Battalion Organization
+
+-battalion->squad level
+
+-click to email button
+
+-admins can change organization
+
+
+
+Links page
+
+-users can post links to important information
+
+
+
+Encrypted
+ - Secure login page
+-email/password login
+
+-forgot password:
+	
+->security question: E-ID
+
+	->send reset password email
+
+-set up new account
+
+	->email
+
+	->password: twice
+
+	->security E-ID: twice
+
+
+
+User types
+
+-admin
+
+-staff
+
+-cadet
+
+-cadre
+-can be multiple types
+
+
+Database of cadets emails and numbers
+
+-only allow new accounts that have emails associated in database
+
+-allow admins to update this list
+
+
+
+User Properties
+
+-Email
+
+-Password
+
+-Security Question (EID)
+
+-Name
+
+-Number
+
+-Cadet year
+
+-Account type (admin/etc.)
+
+-locked
+
+-Mentor
+-reset password
