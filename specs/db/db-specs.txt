@@ -1,1 +1,2 @@
 Use AES encrypt/decrypt for password hashing
+https://zinoui.com/blog/storing-passwords-securely
